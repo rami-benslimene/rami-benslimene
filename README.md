@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **open-source computer vision and LLM agent projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ahmedbs1010](https://github.com/ahmedbs1010)
+- 👨‍💻 All of my projects are available at [https://github.com/rami-benslimene](https://github.com/rami-benslimene)
 
 - 📫 How to reach me **rami.benslimene@esprit.tn**
 
